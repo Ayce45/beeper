@@ -17,7 +17,7 @@ All instructions can be found at [draculatheme.com/beeper](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/Ayce45/bepper/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/Ayce45/beeper/graphs/contributors).
 
 | [![Ayce45](https://github.com/ayce45.png?size=100)](https://github.com/ayce45) |
 | ----------------------------------------------------------------------------------------  |
