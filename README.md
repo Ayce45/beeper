@@ -1,12 +1,19 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Beeper](https://www.beeper.com/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Beeper](https://www.beeper.com/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/beeper](https://draculatheme.com/beeper) or below : 
+
+1. Open Beeper Desktop → Settings → Appearance
+2. Scroll to the `Custom CSS` section.
+3. Click `Open CSS file in editor`.
+4. Replace the file's contents by pasting the CSS of custom.css in this repository.
+5. Click `Reload CSS` (*not* `Reset CSS`) in the Beeper Desktop → Settings → Appearance menu.
+6. Enjoy your newly installed theme!
 
 ## Team
 
